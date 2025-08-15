@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8a1706b779b36d5d61d657ef42b0ad4c",
+    "content-hash": "2f9107553945ce47c90d2bc30af433b3",
     "packages": [
         {
             "name": "brick/math",
@@ -153,7 +153,7 @@
             "dist": {
                 "type": "path",
                 "url": "bundles/houdini-symfony",
-                "reference": "609bbbf47c1921f4464d5e41ee0a7957555f8f35"
+                "reference": "6ab2d46c1388e46e781d81ed776f4963903755f8"
             },
             "require": {
                 "open-telemetry/api": "^1.0",
